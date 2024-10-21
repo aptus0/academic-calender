@@ -1,0 +1,6 @@
+# tkinter Python'un standart kütüphanesidir, genelde requirements dosyasına eklenmez.
+# Eğer ek başka paketler gerekiyorsa, onları buraya ekleyebilirsin.
+
+# Örnek başka bir GUI kütüphanesi için ekleme:
+# pillow kütüphanesi örneğin resim işleme fonksiyonları için kullanılabilir
+Pillow==9.1.0
